@@ -1,4 +1,4 @@
-package com.example.deeplink;
+package com.example.deeplink3;
 
 import android.app.Activity;
 import android.os.Bundle;

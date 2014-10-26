@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.example.deeplink;
+package com.example.deeplink3;
 
 public final class R {
     public static final class attr {
